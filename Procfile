@@ -1,1 +1,1 @@
-Worker: ./sfc/bot.ts
+Worker: npm start
